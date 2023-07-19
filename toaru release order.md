@@ -8,6 +8,7 @@ Railgun | S1/ | EP1-18
 Railgun MMR | S1/I | EP1
 Railgun | S1/ | EP19-24
 Railgun MMR | S1/I | EP2
+Railgun | OVA/Being a Photo Shoot Model Under the Sun Isn't Easy, You Know. | N/A
 Index | S2/II | EP1-4
 Railgun | OVA/Because Misaka-san is Now the Center of Attention | N/A
 Index | S2/II | EP5-15
