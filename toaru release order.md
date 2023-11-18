@@ -29,6 +29,7 @@ Accelerator | N/A | EP1-3
 Index | S3/III | 26
 Index-tan | S3/III | EP2
 Accelerator | N/A | EP4-12
+Accelerator | Special/Sally Forth, Mr. Accel! A Madcap Onslaught | N/A
 Railgun | T/S3 | EP1-12
 Railgun MMR | S3/III | EP5
 Railgun | T/S3 | EP13-24
