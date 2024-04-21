@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "physics-pp.md",
+                "file": "release order/youjo senki.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "physics-pp.md",
+                "file": "release order/youjo senki.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "physics-pp.md",
+                "file": "release order/youjo senki.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "physics-pp.md"
+                "file": "release order/youjo senki.md"
               }
             }
           },
@@ -141,11 +141,13 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -160,11 +162,11 @@
   },
   "active": "85242c3ba63cc99e",
   "lastOpenFiles": [
+    "release order/toaru.md",
+    "release order/youjo senki.md",
     "seiyuu.md",
-    "Release Order/Youjo Senki.md",
-    "Release Order/Toaru.md",
+    "README.md",
     "physics-pp.md",
-    "Release Order",
-    "README.md"
+    "release order"
   ]
 }
