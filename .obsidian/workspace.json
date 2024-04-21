@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "toaru release order.md",
+                "file": "physics-pp.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "toaru release order.md",
+                "file": "physics-pp.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "toaru release order.md",
+                "file": "physics-pp.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "toaru release order.md"
+                "file": "physics-pp.md"
               }
             }
           },
@@ -135,7 +135,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -158,8 +160,11 @@
   },
   "active": "85242c3ba63cc99e",
   "lastOpenFiles": [
-    "toaru release order.md",
     "seiyuu.md",
+    "Release Order/Youjo Senki.md",
+    "Release Order/Toaru.md",
+    "physics-pp.md",
+    "Release Order",
     "README.md"
   ]
 }
